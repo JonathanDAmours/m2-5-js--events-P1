@@ -4,7 +4,7 @@
 
 ---
 
-## Exercise 1.0 - Warm up
+<!-- ## Exercise 1.0 - Warm up
 
 <img src="__lecture/assets/exercise-1.0.gif" />
 
@@ -26,10 +26,11 @@ Hints:
     width: 100vw;
     height: 100vh;
   }
-</style>
+</style> -->
+
 ```
 
-## Exercise 1.1 - Warmer
+<!-- ## Exercise 1.1 - Warmer
 
 <img src="__lecture/assets/exercise-1.1.gif" />
 
@@ -44,7 +45,7 @@ Hints:
 
 - Target the `<body>`
 - `setTimout` is your friend.
-- You'll need a flag (variable containing a boolean) to keep track of whether the user has won or lost.
+- You'll need a flag (variable containing a boolean) to keep track of whether the user has won or lost. -->
 
 ## Exercise 1.2 - Counting down!
 
@@ -153,3 +154,4 @@ Create a page that contains a start/stop button which starts/stops a stopwatch t
 ### Bonus
 
 Make it more like an actual stopwatch where it counts the seconds and the minutes (`00:00`).
+```

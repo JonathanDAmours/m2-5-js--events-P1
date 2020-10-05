@@ -5,6 +5,15 @@
 
 const letterCount = (arr) => {
   // Insert missing solution please
+  let count = 0;
+  let sum = [];
+  let result = 0;
+
+  arr.forEach((arrayString) => {
+    count += arrayString.length;
+  });
+  sum.push(count);
+  return (result = sum[0]);
 };
 
 // 2. Do a console.log to verify your function.
